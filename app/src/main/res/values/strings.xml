@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PushNotifiaction</string>
+    <string name="FCM_PREF">com.example.nizamuddinshamrat.pushnotifiaction.fcm_pref</string>
+    <string name="FCM_TOKEN">com.example.nizamuddinshamrat.pushnotifiaction.fcm_token</string>
+</resources>
